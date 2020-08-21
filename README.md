@@ -1,1 +1,2 @@
-# Python_practice_record
+这个项目用于记录本人学习python语言时所敲写的代码
+记录开始于2020年8月21日 
